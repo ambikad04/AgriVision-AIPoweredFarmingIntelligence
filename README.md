@@ -1,4 +1,4 @@
-# Crop Prediction Project
+# AgriVision - The AI Powered Farming Intelligence
 Welcome to the Crop Prediction Project! This project focuses on leveraging machine learning to optimize agricultural decisions. By analyzing environmental factors and historical crop data, the goal is to develop predictive models that forecast optimal crop choices for specific regions and seasons.
 
 ## Features:
